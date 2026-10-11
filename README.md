@@ -1,6 +1,8 @@
 # SNAYZA Cybersecurity Toolkit
 
-A small Python terminal project for learning basic cybersecurity concepts.
+A small Python terminal project for learning basic cybersecurity concepts <33
+
+![image alt](https://github.com/Snayza/SNAYZA-Cybersecurity-Toolkit/blob/2e483a5d102553ee6cdae1d3f1ba71e02187d75d/Screenshot%202026-10-11%20211655.png)
 
 ## Features
 
